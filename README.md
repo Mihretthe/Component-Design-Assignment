@@ -1,5 +1,3 @@
-Here’s a formatted README in Markdown that you can easily copy and paste:
-
 # Neka (ነቃ) Fitness Tracking Application
 
 ## Group Members

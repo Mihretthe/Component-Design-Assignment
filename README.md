@@ -69,7 +69,7 @@ We welcome contributions! If you would like to contribute:
 ```bash
     https://www.figma.com/design/jNDFvqII57zRm3dOuCL84s/Fitness-Tracking-App?node-id=0-1&t=Sp0oW8dWbXoTF9ih-0
 ```
- with the actual Figma link you want to include.
-- Adjust any screenshot file paths as necessary to match your project's structure.
+## Scre![screenshot3](https://github.com/user-attachments/assets/1794faf3-9778-4eaa-b642-2826bf26ba47)![screenshot2](https://github.com/user-attachments/assets/f904cfd1-8311-4230-8c21-86bf8a908f12)![Screenshot1](https://github.com/user-attachments/assets/ab2dfcdc-49cd-4c7a-8f46-ffe27a175427)
 
-This Markdown format is ready for use in your README file on GitHub or any other Markdown-compatible platform. If you need further modifications, let me know!
+
+enshots

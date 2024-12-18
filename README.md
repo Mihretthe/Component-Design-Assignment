@@ -18,10 +18,7 @@ A comprehensive and user-friendly fitness tracking app providing an intuitive in
 - Nutrition Tracking
 - Social Integration
 
-## Installation Instructions
-1. Access the Figma design [here](link_to_figma).
-2. You can view the design [here](link_to_figma). Please note that this link is for viewing only; editing is not permitted.
-3. Clone the repository to your local machine.
+ Access the Figma design [here]( https://www.figma.com/design/jNDFvqII57zRm3dOuCL84s/Fitness-Tracking-App?node-id=0-1&t=Sp0oW8dWbXoTF9ih-0).
 
 ## Usage Instructions
 1. Open the Figma file to view various screens of the app.
@@ -41,10 +38,7 @@ A comprehensive and user-friendly fitness tracking app providing an intuitive in
 
 ## Screenshots
 Here are some screenshots of the Neka Fitness Tracking Application:
-1. Onboarding Screen: ![Onboarding Screen](images/screenshot1.jpg)
-2. Logging and Signup: ![Logging](images/screenshot2.jpg)
-3. Nutrition and Workout: ![Nutrition Dashboard](images/screenshot3.jpg)
-
+## Scre![screenshot3](https://github.com/user-attachments/assets/1794faf3-9778-4eaa-b642-2826bf26ba47)![screenshot2](https://github.com/user-attachments/assets/f904cfd1-8311-4230-8c21-86bf8a908f12)![Screenshot1](https://github.com/user-attachments/assets/ab2dfcdc-49cd-4c7a-8f46-ffe27a175427)
 ## Contributing
 We welcome contributions! If you would like to contribute:
 1. Fork the repository.
@@ -64,12 +58,4 @@ We welcome contributions! If you would like to contribute:
 4. Mihret Tekalgn – [mihret.tekalgn@aastustudent.edu.et](mailto:mihret.tekalgn@aastustudent.edu.et)
 5. Milky Siraj – [milky.siraj@aastustudent.edu.et](mailto:milky.siraj@aastustudent.edu.et)
 
-### Notes:
-- Replace 
-```bash
-    https://www.figma.com/design/jNDFvqII57zRm3dOuCL84s/Fitness-Tracking-App?node-id=0-1&t=Sp0oW8dWbXoTF9ih-0
-```
-## Scre![screenshot3](https://github.com/user-attachments/assets/1794faf3-9778-4eaa-b642-2826bf26ba47)![screenshot2](https://github.com/user-attachments/assets/f904cfd1-8311-4230-8c21-86bf8a908f12)![Screenshot1](https://github.com/user-attachments/assets/ab2dfcdc-49cd-4c7a-8f46-ffe27a175427)
 
-
-enshots
